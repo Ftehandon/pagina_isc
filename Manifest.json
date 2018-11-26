@@ -1,0 +1,57 @@
+<link rel="manifest" href="manifest.json"/>
+"name":"isc"
+"short_name":"isc"
+"star_url":"/index.html"
+"scope":"."
+"dysplay":"standalone"
+"background_color":"#515151"
+"theme_color":"asdaf"
+"description":"ISC"
+"dir":"ltr"
+"lang":"es-MX"
+"orientation":"portrait-primary"
+"icons":[{
+			"src":"/imagenes/a1.jpg",
+			"type":"image/jpg",
+			"sizes":"299x168"
+		}
+		{
+			"src":"/imagenes/a2.jpg",
+			"type":"image/jpg",
+			"sizes":"293x172"
+		}
+		{
+			"src":"/imagenes/a3.jpg",
+			"type":"image/jpg",
+			"sizes":"278x182"
+		}
+		{
+			"src":"/imagenes/fondo.jpg",
+			"type":"image/jpg",
+			"sizes":"760x570"
+		}
+		{
+			"src":"/imagenes/logo.jpg",
+			"type":"image/jpg",
+			"sizes":"50x50"
+		}
+		{
+			"src":"/imagenes/p1.jpg",
+			"type":"image/jpg",
+			"sizes":"318x159"
+		}
+		{
+			"src":"/imagenes/p2.jpg",
+			"type":"image/jpg",
+			"sizes":"329x153"
+		}
+		{
+			"src":"/imagenes/p3.jpg",
+			"type":"image/jpg",
+			"sizes":"300x168"
+		}
+		{
+			"src":"/imagenes/p4.jpg",
+			"type":"image/jpg",
+			"sizes":"275x183"
+		}]

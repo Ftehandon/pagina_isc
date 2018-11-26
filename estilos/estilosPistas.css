@@ -1,0 +1,42 @@
+
+body{
+	padding: 0;
+	margin: 0;
+}
+.pistas{
+	margin-left: 100px;
+	position: relative;
+
+	border: 2px solid #000;
+	padding:15px;
+	width: 70%;
+	flex-wrap: wrap;
+	background:#555;
+
+}
+.pistas li{
+	border-bottom: 1px solid #fff;
+
+	width: 70%;
+	background:#333;
+	border-radius: 30px;
+	font-family: Cambria,Arial,  serif;
+	font-size: 20px;
+	padding-bottom: 13px;
+	list-style:none;
+	height: 40px;
+	color: #69F0AE;
+
+}
+
+
+audio{
+  margin-left: 20px;
+  height:  40px;
+  list-style: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a {
+  text-decoration:none;
+  text-align: center;
+}
